@@ -402,4 +402,14 @@ html {
   font-weight: 200;
   color: black;
 }
+
+.section-2 .iphones {
+  height: 60vh;
+  width: 50vw;
+}
+
+.section-2 .iphones img {
+  width: inherit;
+  height: auto;
+}
 /*# sourceMappingURL=style.css.map */

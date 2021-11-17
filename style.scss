@@ -307,6 +307,17 @@ html {
         font-weight: 200;
         color: black;
     }
+    // End of section 2 heading 
+    // Section 2 imagens 
+    .iphones {
+        height: 60vh;
+        width: 50vw;
+        img {
+            width: inherit;
+            height: auto;
+        }
+    }
+    // End of section 2 images 
 }
 
 // End of section 2
